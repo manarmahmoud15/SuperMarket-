@@ -1,0 +1,10 @@
+#include "Strcut.c"
+Product move( char ProductName [] ,Category **categories  ,int indexNewCategory)
+{
+    int indexProduct= SearchProduct(ProductName ,categories , indexNewCategory);
+    if (indexProduct != -1)
+    {
+
+    }
+
+}

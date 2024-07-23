@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1701782739 source:c:\users\microsoft\desktop\data iti hub\c\testproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Struct.c"
+
+1701721904 source:c:\users\microsoft\desktop\data iti hub\c\testproject\resizearray.c
+	"Struct.c"
+
+1701781536 c:\users\microsoft\desktop\data iti hub\c\testproject\struct.c
+	<stdio.h>
+	<stdlib.h>
+
+1701781536 source:c:\users\microsoft\desktop\data iti hub\c\testproject\struct.c
+	<stdio.h>
+	<stdlib.h>
+
+1701789212 source:c:\users\microsoft\desktop\data iti hub\c\testproject\addfunction.c
+	"Struct.c"
+
+1701722085 source:c:\users\microsoft\desktop\data iti hub\c\testproject\delfaunction.c
+	"Struct.c"
+
+1701781688 source:c:\users\microsoft\desktop\data iti hub\c\testproject\displayfunction.c
+	"Struct.c"
+
+1701505771 source:c:\users\microsoft\desktop\data iti hub\c\testproject\search.c
+	"Struct.c"
+
+1701360193 source:c:\users\microsoft\desktop\data iti hub\c\testproject\delcategory.c
+
+1701723297 source:c:\users\microsoft\desktop\data iti hub\c\testproject\movefun.c
+	"Struct.c"
+
+1701785162 source:c:\users\microsoft\desktop\data iti hub\c\testproject\buyproduct.c
+	"Struct.c"
+
+1701781933 source:c:\users\microsoft\desktop\data iti hub\c\testproject\updateproduct.c
+	"Struct.c"
+
+1701787634 source:c:\users\microsoft\desktop\data iti hub\c\testproject\callfun.c
+	"Struct.c"
+
+1701788360 source:c:\users\microsoft\desktop\data iti hub\c\testproject\menu.c
+	"Struct.c"
+
+1701701302 source:c:\users\microsoft\desktop\data iti hub\c\testproject\console.c
+	<windows.h>
+	"Struct.c"
+
+1702662307 source:c:\users\microsoft\desktop\data iti hub\c\cproject\addfunction.c
+	"Struct.c"
+
+1701781536 c:\users\microsoft\desktop\data iti hub\c\cproject\struct.c
+	<stdio.h>
+	<stdlib.h>
+
+1701785162 source:c:\users\microsoft\desktop\data iti hub\c\cproject\buyproduct.c
+	"Struct.c"
+
+1702662475 source:c:\users\microsoft\desktop\data iti hub\c\cproject\callfun.c
+	"Struct.c"
+
+1701701302 source:c:\users\microsoft\desktop\data iti hub\c\cproject\console.c
+	<windows.h>
+	"Struct.c"
+
+1701800995 source:c:\users\microsoft\desktop\data iti hub\c\cproject\delfaunction.c
+	"Struct.c"
+
+1701781688 source:c:\users\microsoft\desktop\data iti hub\c\cproject\displayfunction.c
+	"Struct.c"
+
+1702663105 source:c:\users\microsoft\desktop\data iti hub\c\cproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Struct.c"
+
+1702662307 source:c:\users\microsoft\desktop\data iti hub\c\cproject\menu.c
+	"Struct.c"
+
+1701723297 source:c:\users\microsoft\desktop\data iti hub\c\cproject\movefun.c
+	"Struct.c"
+
+1701721904 source:c:\users\microsoft\desktop\data iti hub\c\cproject\resizearray.c
+	"Struct.c"
+
+1701505771 source:c:\users\microsoft\desktop\data iti hub\c\cproject\search.c
+	"Struct.c"
+
+1701781536 source:c:\users\microsoft\desktop\data iti hub\c\cproject\struct.c
+	<stdio.h>
+	<stdlib.h>
+
+1702660426 source:c:\users\microsoft\desktop\data iti hub\c\cproject\updateproduct.c
+	"Struct.c"
+
